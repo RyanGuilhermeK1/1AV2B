@@ -1,6 +1,7 @@
 body{
     background: fixed no-repeat;
 background-image:url(2023-audi-r8-v10-gt-rwd-exterior.jpg);
+width: max-content;
 text-align: center;
 
 
